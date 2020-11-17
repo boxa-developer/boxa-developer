@@ -7,6 +7,6 @@
 **boxa-developer/boxa-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=boxa-developer)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boxa-developer&show_icons=true)
 [![My github ranking](https://github-readme-ranking.vercel.app/api/rank?username=boxa-developer&country_code=uzbekistan)](https://github.com/Muhammadsher)
 
