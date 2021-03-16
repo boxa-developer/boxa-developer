@@ -9,4 +9,4 @@
 
 [![My github ranking](https://github-readme-ranking.vercel.app/api/rank?username=boxa-developer&country_code=uzbekistan&theme=dark&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boxa-developer&show_icons=true&show_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boxa-developer&show_icons=true&count_private=true)
